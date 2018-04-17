@@ -1,2 +1,2 @@
 # wechat
-爬取微信公众号信息
+Crawling information on the WeChat public numbe
